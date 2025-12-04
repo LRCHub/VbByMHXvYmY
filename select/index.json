@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Fool on the planet",
+  "base_artist": "the pillows",
+  "createdAt": "2025-12-04T18:59:09.613208Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Fool On The Planet",
+      "artist": "The Pillows",
+      "has_synced": false,
+      "path": "select/01_Fool_On_The_Planet_The_Pillows.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "fool on the planet",
+      "artist": "tm network",
+      "has_synced": false,
+      "path": "select/02_fool_on_the_planet_tm_network.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Fool on the Planet (Acoustic)",
+      "artist": "The Pillows",
+      "has_synced": false,
+      "path": "select/03_Fool_on_the_Planet_(Acoustic)_The_Pillows.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Fool on the planet (青く揺れる惑星に立って)",
+      "artist": "TM NETWORK",
+      "has_synced": true,
+      "path": "select/04_Fool_on_the_planet_(青く揺れる惑星に立って)_TM_NETWORK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Fool On The Planet ～青く揺れる惑星に立って～",
+      "artist": "TM NETWORK",
+      "has_synced": false,
+      "path": "select/05_Fool_On_The_Planet_~青く揺れる惑星に立って~_TM_NETWORK.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Fool on the planet",
+      "artist": "pillows, the",
+      "has_synced": true,
+      "path": "select/06_Fool_on_the_planet_pillows,_the.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Fool on the planet",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/07_Fool_on_the_planet_the_pillows.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Fool on the planet",
+      "artist": "ザ・ピロウズ",
+      "has_synced": false,
+      "path": "select/08_Fool_on_the_planet_ザ・ピロウズ.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Fool on the Planet (Fool on Cool Version)",
+      "artist": "the pillows",
+      "has_synced": true,
+      "path": "select/09_Fool_on_the_Planet_(Fool_on_Cool_Version)_the_pillows.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Fool on the planet",
+      "artist": "the pillows",
+      "has_synced": false,
+      "path": "select/pl_01_Fool_on_the_planet_the_pillows.txt"
+    }
+  ]
+}
